@@ -1,0 +1,21 @@
+princess  Yo vengo  Amarte  Rapido  Toda la noche  Sin Miedo
+princess  Yo puedo  Amarte  Rapido  Toda la noche  Sin compromiso
+mami  Yo puedo  Amarte  Rapido  Hasta el amanacer  Sin compromiso
+mami  Yo vengo  Amarte  Lento  Hasta el amanacer  Sin Miedo
+
+bebe  Yo puedo  Jugar  Lento  Toda la noche  Face to Face
+bebe  Yo puedo  Jugar  Fuerte  Todo e dia  Face to Face
+mami  Yo a  Ligar  Fuerte  Hasta el amanacer  Face to Face
+mami  Yo puedo  Jugar  Fuerte  Hasta el amanacer  Sin compromiso
+
+bebe  Yo a  Ligar  Fuerte  Hasta el amanacer  Sin Miedo
+princess  Yo puedo  Amarte  Rapido  Toda la noche  Sin Miedo
+mami  Yo vengo  Ligar  Fuerte  Todo e dia  Sin compromiso
+mami  Yo puedo  Amarte  Fuerte  Todo e dia  Face to Face
+
+princess  Yo a  Jugar  Fuerte  Hasta el amanacer  Face to Face
+bebe  Yo puedo  Jugar  Rapido  Toda la noche  Sin compromiso
+princess  Yo puedo  Ligar  Fuerte  Toda la noche  Sin compromiso
+princess  Yo vengo  Amarte  Rapido  Hasta el amanacer  Face to Face
+
+
