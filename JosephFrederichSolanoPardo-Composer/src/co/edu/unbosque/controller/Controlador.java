@@ -16,6 +16,7 @@ public class Controlador {
 
 	public void funcionar() {
 		v.mostrarResultados(c.mostrar());
+		c.guardar();
 		v.mostrarResultados(c.gestionarPropiedades());
 
 	}

@@ -4,11 +4,12 @@ import co.edu.unbosque.model.persistence.Archivo;
 import co.edu.unbosque.model.persistence.Propiedades;
 
 public class Componer {
+	Archivo a = new Archivo();
 	public String mostrar() {
-		Archivo a = new Archivo();
-		String z = "Mira" + a.leer();
-		a.escrbir();
-		return z;
+		return  "Letra:  " +"\n" +  a.leer(); 
+	}
+	public String guardar() {
+		 return a.escrbir();
 	}
 	public String gestionarPropiedades() {
 	Propiedades prop = new Propiedades();
